@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xiaoniu_cms:war">
+    <output-path>$PROJECT_DIR$/xiaoniu_cms/target</output-path>
+    <root id="archive" name="xiaoniu_cms.war">
+      <element id="artifact" artifact-name="xiaoniu_cms:war exploded" />
+    </root>
+  </artifact>
+</component>

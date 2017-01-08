@@ -1,0 +1,11 @@
+com\xiaoniu\cms\common\base\MongoBase.class
+com\xiaoniu\cms\dao\UserDaoImpl.class
+com\xiaoniu\cms\model\vo\Chapter.class
+com\xiaoniu\cms\model\vo\User.class
+com\xiaoniu\cms\model\vo\Comments.class
+com\xiaoniu\cms\common\base\BaseUtil.class
+com\xiaoniu\cms\model\vo\Book.class
+com\xiaoniu\cms\common\base\BaseException.class
+com\xiaoniu\cms\util\TestUserMongoDB.class
+com\xiaoniu\cms\dao\UserDao.class
+com\xiaoniu\cms\util\Test.class
